@@ -387,22 +387,21 @@ I believe good engineering is not only about writing code — it's about underst
 <a href="https://github.com/ChristDani">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<!--
-Agrega aquí tus datos y descomenta la línea correspondiente:
-
 <a href="mailto:CDaniel.22+ghp@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/TU_USUARIO">
+<a href="https://linkedin.com/in/chrisdaniel2204">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://TU_SITIO_WEB.com">
+<a href="https://portafolio-christian-diaz.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://wa.me/TU_NUMERO">
+<a href="https://wa.me/+51955082199">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
--->
+<a href="https://t.me/+51955082199">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 </div>
 
