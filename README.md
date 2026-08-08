@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel%20Campaña%20Díaz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Enthusiast%20-%20Cloud%20and%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel%20Campaña%20Díaz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Enthusiast%20-%20Cloud%20and%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Engineering+ideas+into+digital+solutions;Full-Stack+Development+%7C+AI+%7C+Cloud+%7C+Cybersecurity;Building+scalable%2C+modern+and+useful+software;Always+learning.+Always+building." alt="Typing animation" />
 
 <br/>
@@ -436,6 +436,6 @@ I believe good engineering is not only about writing code — it's about underst
 
 ### 💬 "Engineering ideas into digital solutions."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" alt="Footer"/>
 
 </div>
