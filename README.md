@@ -234,8 +234,6 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 </div>
 
-> 💡 Ver la sección **"Cómo activar la animación de la serpiente"** al final de este documento para configurar el GitHub Action correspondiente.
-
 ---
 
 # 🧰 My Engineering Toolkit
