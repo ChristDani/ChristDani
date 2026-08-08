@@ -1,9 +1,9 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel%20Campaña%20Díaz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Enthusiast%20-%20Cloud%20and%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Engineering+ideas+into+digital+solutions;Full-Stack+Development+%7C+AI+%7C+Cloud+%7C+Cybersecurity;Building+scalable%2C+modern+and+useful+software;Always+learning.+Always+building." alt="Typing animation" />
 
-<br/>
-
+<br/><br/>
 <a href="https://github.com/ChristDani">
   <img src="https://komarev.com/ghpvc/?username=ChristDani&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
 </a>
@@ -54,7 +54,8 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,php,sql,html,css,py" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,php,html,css,py" alt="Programming languages"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
 </p>
 
 **TypeScript · JavaScript · Java · C# · PHP · SQL · HTML5 · CSS3 · Python**
@@ -108,13 +109,10 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=jenkins,docker,git,github,bitbucket,githubactions,npm" alt="DevOps tools"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
 </p>
 
 **Git · GitHub · Bitbucket · Jenkins · Argo · Docker · CI/CD · Pipelines · Composer · NPM**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
-</p>
 
 ### 🏗️ Architecture
 
@@ -257,7 +255,11 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -400,6 +402,20 @@ I believe good engineering is not only about writing code — it's about underst
 | 🗄️ Data | PostgreSQL · MySQL · MongoDB · SQL Server |
 | 🧪 Quality | Jest · SOLID · Engineering Best Practices |
 | 🤝 Delivery | Scrum · Agile |
+
+</div>
+
+---
+
+# 🌍 Languages I Speak
+
+<div align="center">
+
+| Language | Level |
+|---|---|
+| 🇪🇸 Spanish | Native |
+| 🇬🇧 English | Advanced |
+| 🇫🇷 French | Basic |
 
 </div>
 
