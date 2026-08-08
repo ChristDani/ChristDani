@@ -1,15 +1,11 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Cloud%20%26%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
 
-# 👋 Hi, I'm Christian Daniel
-
 ### Software Engineer · AI Enthusiast · Cloud & Cybersecurity
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Engineering+ideas+into+digital+solutions;Full-Stack+Development+%7C+AI+%7C+Cloud+%7C+Cybersecurity;Building+scalable%2C+modern+and+useful+software;Always+learning.+Always+building." alt="Typing animation" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/ChristDani">
   <img src="https://komarev.com/ghpvc/?username=ChristDani&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
@@ -394,7 +390,7 @@ I believe good engineering is not only about writing code — it's about underst
 <!--
 Agrega aquí tus datos y descomenta la línea correspondiente:
 
-<a href="mailto:TU_CORREO@ejemplo.com">
+<a href="mailto:CDaniel.22+ghp@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/TU_USUARIO">
