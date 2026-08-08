@@ -1,8 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Cloud%20%26%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
-
-### Software Engineer · AI Enthusiast · Cloud & Cybersecurity
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:36BCF7&height=220&section=header&text=Christian%20Daniel%20Campaña%20Díaz&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Enthusiast%20-%20Cloud%20and%20Cybersecurity&descAlignY=58&descSize=18" alt="Header banner" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Engineering+ideas+into+digital+solutions;Full-Stack+Development+%7C+AI+%7C+Cloud+%7C+Cybersecurity;Building+scalable%2C+modern+and+useful+software;Always+learning.+Always+building." alt="Typing animation" />
 
 <br/>
@@ -161,29 +158,59 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=ChristDani&theme=tokyonight&hide_border=true" alt="Project card 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=secretNumber&theme=tokyonight&hide_border=true" alt="Secret Number Game"/>
 </a>
 
 </div>
 
-> 💡 Reemplaza el repo de ejemplo de arriba con tus proyectos reales (por ejemplo `Mi Restaurante VIP` o `Aether`) usando:
-> `https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true`
+<!-- > 💡 Reemplaza el repo de ejemplo de arriba con tus proyectos reales (por ejemplo `Mi Restaurante VIP` o `Aether`) usando:
+> `https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true` -->
 
 ---
 
 # 🕓 Professional Timeline
 
 ```text
-2023 ─┬─ Founded EYTLYR — Software Development & Integration Solutions S.A.C.
+2022 ─┬─ Graduated in Software Engineering — AI specialization
+      │  └─ Software development, databases, AI & software architecture
       │
-2024 ─┼─ Full-stack development across React, NestJS, Node.js, Python
+2023 ─┼─ Started Civil Engineering studies
+      │  └─ Continued professional development in full-stack software engineering
+      |
+      ├─ Joined Valtx — Analyst & Software Developer
+      │  └─ Enterprise software development & system integration
+      │  └─ Banking & financial-sector solutions
+      │     ├─ Scotiabank
+      │     └─ Caja Arequipa
       │
-2025 ─┼─ AI-powered automation (Aether) and SaaS product development
+2024 ─┼─ Continued enterprise full-stack development
+      │  └─ React, Angular, Node.js, NestJS, PHP, Java, TypeScript & SQL
+      │  └─ APIs, microservices, CI/CD, Docker & cloud technologies
+      │  └─ Software architecture & scalable application development
       │
-2026 ─┴─ Expanding into cloud-native architecture & cybersecurity specialization
+2025 ─┼─ Expanded into Micro Frontends & Microservices
+      │  └─ Designed scalable, modular & distributed application architectures
+      │  └─ Strengthened expertise in enterprise integration, APIs & cloud technologies
+      │
+      ├─ NTT DATA — Centers Developer
+      │  └─ Solutions for Pacífico Seguros
+      │  └─ Angular, enterprise AI integration & modern web technologies
+      |
+      ├─ Zoluxiones — Full-Stack Developer
+      │  └─ Software solutions for Universidad Tecnológica del Perú
+      │  └─ Full-stack development & system integration
+      |
+      ├─ Founded EYTLYR — Technology Consulting & Solutions S.A.C.
+      │  └─ Software development, technology consulting & system integration
+      │  └─ SaaS products, digital transformation & AI solutions
+      │
+2026 ─┴─ Expanding EYTLYR's technology ecosystem
+         ├─ AI-powered automation & intelligent assistants
+         ├─ SaaS ecosystem & digital platforms
+         ├─ Cloud-native architecture & scalable infrastructure
+         ├─ Cybersecurity specialization
+         └─ AWS, Docker, CI/CD, Microservices & AI technologies
 ```
-
-> 💡 Ajusta los años e hitos de esta línea de tiempo según tu trayectoria real.
 
 ---
 
