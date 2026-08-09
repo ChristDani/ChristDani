@@ -5,13 +5,13 @@
 
 <br/><br/>
 <a href="https://github.com/ChristDani">
-  <img src="https://komarev.com/ghpvc/?username=ChristDani&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ChristDani&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views"/>
 </a>
 <a href="https://github.com/ChristDani?tab=followers">
-  <img src="https://img.shields.io/github/followers/ChristDani?label=Followers&style=for-the-badge&logo=github&color=36BCF7&logoColor=white" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/followers/ChristDani?label=Followers&style=for-the-badge&logo=github&color=36BCF7&logoColor=white" alt="GitHub followers"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cloud-0f2027?style=for-the-badge&logoColor=white" alt="Focus badge"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cloud-0f2027?style=for-the-badge&logoColor=white" alt="Focus badge"/>
 </a>
 
 </div>
@@ -224,8 +224,21 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 </a>
 
 <br/><br/>
+<picture>
 
-<img src="https://streak-stats.demolab.com?user=ChristDani&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <source
+    srcset="https://streak-stats.demolab.com?user=ChristDani&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=ChristDani&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=ChristDani&theme=default&hide_border=true"
+    alt="GitHub streak"
+  />
+</picture>
 
 </div>
 
@@ -235,7 +248,20 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=flat&no-frame=true&row=1&column=7"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=tokyonight&no-frame=true&row=1&column=7"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=flat&no-frame=true&row=1&column=7"
+    alt="GitHub trophies"
+  />
+</picture>
 
 </div>
 
@@ -245,7 +271,20 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=github&hide_border=true&area=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=tokyo-night&hide_border=true&area=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ChristDani&theme=github&hide_border=true&area=true"
+    alt="GitHub contribution activity graph"
+  />
+</picture>
 
 </div>
 
@@ -258,7 +297,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ChristDani/ChristDani/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -391,17 +430,17 @@ I believe good engineering is not only about writing code — it's about underst
 
 <div align="center">
 
-| Area | Focus |
-|---|---|
-| 💻 Software Engineering | Full-Stack Development |
-| 🤖 Artificial Intelligence | AI Integration & Automation |
-| ☁️ Cloud | AWS · Azure · Anthos |
-| 🏗️ Architecture | Microservices · Microfrontends · Hexagonal · MVC · PWA |
-| ⚙️ DevOps | Docker · CI/CD · Pipelines · Jenkins · Argo |
-| 🔐 Security | Cybersecurity |
-| 🗄️ Data | PostgreSQL · MySQL · MongoDB · SQL Server |
-| 🧪 Quality | Jest · SOLID · Engineering Best Practices |
-| 🤝 Delivery | Scrum · Agile |
+| Area                       | Focus                                                  |
+| -------------------------- | ------------------------------------------------------ |
+| 💻 Software Engineering    | Full-Stack Development                                 |
+| 🤖 Artificial Intelligence | AI Integration & Automation                            |
+| ☁️ Cloud                   | AWS · Azure · Anthos                                   |
+| 🏗️ Architecture            | Microservices · Microfrontends · Hexagonal · MVC · PWA |
+| ⚙️ DevOps                  | Docker · CI/CD · Pipelines · Jenkins · Argo            |
+| 🔐 Security                | Cybersecurity                                          |
+| 🗄️ Data                    | PostgreSQL · MySQL · MongoDB · SQL Server              |
+| 🧪 Quality                 | Jest · SOLID · Engineering Best Practices              |
+| 🤝 Delivery                | Scrum · Agile                                          |
 
 </div>
 
@@ -411,11 +450,11 @@ I believe good engineering is not only about writing code — it's about underst
 
 <div align="center">
 
-| Language | Level |
-|---|---|
-| 🇪🇸 Spanish | Native |
+| Language   | Level    |
+| ---------- | -------- |
+| 🇪🇸 Spanish | Native   |
 | 🇬🇧 English | Advanced |
-| 🇫🇷 French | Basic |
+| 🇫🇷 French  | Basic    |
 
 </div>
 
