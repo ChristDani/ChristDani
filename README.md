@@ -473,7 +473,7 @@ I believe good engineering is not only about writing code — it's about underst
 <a href="https://linkedin.com/in/chrisdaniel2204">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://portafolio-christian-diaz.netlify.app/">
+<a href="https://christdani.github.io">
   <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://wa.me/+51955082199">
