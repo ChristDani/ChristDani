@@ -263,7 +263,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=flat&no-frame=true&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=ChristDani&theme=tokyonight&no-frame=true&row=1&column=7"
     alt="GitHub trophies"
   />
 </picture>
