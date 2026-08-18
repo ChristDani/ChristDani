@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI%20%7C%20Cloud-0f2027?style=for-the-badge&logoColor=white" alt="Focus badge"/>
 </a>
 
+<a href="https://christdani.github.io" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-0f2027?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 ---
@@ -163,6 +167,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 <!-- > 💡 Reemplaza el repo de ejemplo de arriba con tus proyectos reales (por ejemplo `Mi Restaurante VIP` o `Aether`) usando:
 > `https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true` -->
+> 🎯 Estos proyectos demuestran mi experiencia en desarrollo full-stack, inteligencia artificial, automatización y arquitectura de software escalable. Cada proyecto refleja soluciones innovadoras aplicadas a desafíos empresariales reales, desde juegos interactivos hasta sistemas complejos de integración empresarial. 
 
 ---
 
@@ -464,9 +469,6 @@ I believe good engineering is not only about writing code — it's about underst
 
 <div align="center">
 
-<a href="https://github.com/ChristDani">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 <a href="mailto:CDaniel.22+ghp@outlook.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
