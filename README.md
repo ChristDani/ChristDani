@@ -155,6 +155,28 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 ---
 
+## 🔐 Cybersecurity & Purple Team
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-000000?style=for-the-badge&logo=attack&logoColor=white" alt="MITRE ATT&CK"/>
+  <img src="https://img.shields.io/badge/Purple%20Team-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="Purple Team"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-10B981?style=for-the-badge&logo=security&logoColor=white" alt="Threat Hunting"/>
+  <img src="https://img.shields.io/badge/SIEM%20%2F%20EDR-2563EB?style=for-the-badge&logo=security&logoColor=white" alt="SIEM and EDR"/>
+</p>
+
+**Purple Team · Threat Hunting · Detection Engineering · Incident Response · MITRE ATT&CK · Security Testing · SOC Workflow**
+
+> Actualmente estoy en el enfoque de Purple Team: fortaleciendo la colaboración entre ofensiva y defensa para detectar, validar y mejorar continuamente la postura de seguridad de sistemas y aplicaciones.
+
+**Áreas de enfoque:**
+- Evaluación de seguridad y validación de controles.
+- Simulación de ataques con enfoque en detección y respuesta.
+- Diseño y mejora de detecciones basadas en MITRE ATT&CK.
+- Investigación de amenazas, análisis de evidencia y hardening.
+- Seguridad aplicada a entornos empresariales, APIs, infraestructura y aplicaciones web.
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
