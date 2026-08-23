@@ -76,6 +76,17 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 ---
 
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" alt="Mobile development technologies"/>
+  <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go"/>
+</p>
+
+**Android Studio · Flutter · React Native · Expo Go**
+
+---
+
 ## ⚙️ Backend & Frameworks
 
 <p align="center">
@@ -169,6 +180,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 > Actualmente estoy en el enfoque de Purple Team: fortaleciendo la colaboración entre ofensiva y defensa para detectar, validar y mejorar continuamente la postura de seguridad de sistemas y aplicaciones.
 
 **Áreas de enfoque:**
+
 - Evaluación de seguridad y validación de controles.
 - Simulación de ataques con enfoque en detección y respuesta.
 - Diseño y mejora de detecciones basadas en MITRE ATT&CK.
@@ -189,7 +201,8 @@ I enjoy taking an idea from architecture and development to **deployment, automa
 
 <!-- > 💡 Reemplaza el repo de ejemplo de arriba con tus proyectos reales (por ejemplo `Mi Restaurante VIP` o `Aether`) usando:
 > `https://github-readme-stats.vercel.app/api/pin/?username=ChristDani&repo=NOMBRE_DEL_REPO&theme=tokyonight&hide_border=true` -->
-> 🎯 Estos proyectos demuestran mi experiencia en desarrollo full-stack, inteligencia artificial, automatización y arquitectura de software escalable. Cada proyecto refleja soluciones innovadoras aplicadas a desafíos empresariales reales, desde juegos interactivos hasta sistemas complejos de integración empresarial. 
+
+> 🎯 Estos proyectos demuestran mi experiencia en desarrollo full-stack, inteligencia artificial, automatización y arquitectura de software escalable. Cada proyecto refleja soluciones innovadoras aplicadas a desafíos empresariales reales, desde juegos interactivos hasta sistemas complejos de integración empresarial.
 
 ---
 
