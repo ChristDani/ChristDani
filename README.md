@@ -62,7 +62,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"/>
 </p>
 
-**TypeScript · JavaScript · Java · C# · PHP · SQL · HTML5 · CSS3 · Python**
+**`TypeScript` · `JavaScript` · `Java` · `C#` · `PHP` · `SQL` · `HTML5` · `CSS3` · `Python`**
 
 ---
 
@@ -72,18 +72,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,vite,webpack,flutter" alt="Frontend technologies"/>
 </p>
 
-**React · Angular · Next.js · Tailwind CSS · Vite · Webpack · Flutter**
-
----
-
-## 📱 Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" alt="Mobile development technologies"/>
-  <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go"/>
-</p>
-
-**Android Studio · Flutter · React Native · Expo Go**
+**`React` · `Angular` · `Next.js` · `Tailwind CSS` · `Vite` · `Webpack` · `Flutter`**
 
 ---
 
@@ -94,7 +83,21 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
 </p>
 
-**Node.js · NestJS · PHP · Laravel · Java · Spring Boot · C# · Swagger / OpenAPI**
+**`Node.js` · `NestJS` · `PHP` · `Laravel` · `Java` · `Spring Boot` · `C#` · `Swagger / OpenAPI`**
+
+---
+
+## 📱 Mobile Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react" alt="Mobile development technologies"/>
+  <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Go"/>
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" alt="Xamarin"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+    
+</p>
+
+**`Android Studio` · `Flutter` · `React Native` · `Expo Go` · `Xamarin` · `Iconic`**
 
 ---
 
@@ -106,7 +109,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL"/>
 </p>
 
-**PostgreSQL · MySQL · MongoDB · Prisma · SQL Server · MSSQL**
+**`PostgreSQL` · `MySQL` · `MongoDB` · `Prisma` · `SQL Server` · `MSSQL`**
 
 ---
 
@@ -116,7 +119,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,kubernetes,terraform" alt="Cloud and infrastructure"/>
 </p>
 
-**AWS · Azure · Anthos · Docker · Nginx · Kubernetes · Terraform · Coolify**
+**`AWS` · `Azure` · `Anthos` · `Docker` · `Nginx` · `Kubernetes` · `Terraform` · `Coolify`**
 
 ---
 
@@ -127,15 +130,34 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer"/>
 </p>
 
-**Git · GitHub · Bitbucket · Jenkins · Argo · Docker · CI/CD · Pipelines · Composer · NPM**
+**`Git` · `GitHub` · `Bitbucket` · `Jenkins` · `Argo` · `Docker` · `CI/CD` · `Pipelines` · `Composer` · `NPM`**
 
 ### 🏗️ Architecture
 
-`Microservices` · `Microfrontends` · `REST APIs` · `Cloud Architecture` · `Scalable Systems` · `Hexagonal Architecture` · `MVC` · `PWA` · `SOLID`
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Microfrontends-4ECDC4?style=for-the-badge&logo=react&logoColor=white" alt="Microfrontends"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-95E1D3?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Cloud%20Architecture-FFA502?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Architecture"/>
+  <img src="https://img.shields.io/badge/Scalable%20Systems-38BDF8?style=for-the-badge&logo=apache&logoColor=white" alt="Scalable Systems"/>
+  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-9F7AEA?style=for-the-badge&logo=pattern&logoColor=white" alt="Hexagonal Architecture"/>
+  <img src="https://img.shields.io/badge/MVC-F472B6?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC"/>
+  <img src="https://img.shields.io/badge/PWA-5B21B6?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
+  <img src="https://img.shields.io/badge/SOLID-10B981?style=for-the-badge&logo=codeforces&logoColor=white" alt="SOLID"/>
+</p>
+
+**`Microservices` · `Microfrontends` · `REST APIs` · `Cloud Architecture` · `Scalable Systems` · `Hexagonal Architecture` · `MVC` · `PWA` · `SOLID`**
 
 ### 🤝 Methodologies
 
-`Scrum` · `Agile Delivery` · `Continuous Integration` · `Continuous Delivery`
+<p align="center">
+  <img src="https://img.shields.io/badge/Scrum-6A5ACD?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/Agile%20Delivery-FF6B6B?style=for-the-badge&logo=agile&logoColor=white" alt="Agile Delivery"/>
+  <img src="https://img.shields.io/badge/Continuous%20Integration-4ECDC4?style=for-the-badge&logo=jenkins&logoColor=white" alt="Continuous Integration"/>
+  <img src="https://img.shields.io/badge/Continuous%20Delivery-95E1D3?style=for-the-badge&logo=delivery&logoColor=white" alt="Continuous Delivery"/>
+</p>
+
+**`Scrum` · `Agile Delivery` · `Continuous Integration` · `Continuous Delivery`**
 
 ---
 
@@ -145,7 +167,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,figma,androidstudio" alt="OS and tools"/>
 </p>
 
-**Linux · Ubuntu · Kali Linux · Figma · Android Studio**
+**`Linux` · `Ubuntu` · `Kali Linux` · `Figma` · `Android Studio`**
 
 ---
 
@@ -160,7 +182,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://img.shields.io/badge/OpenCode-1a1a1a?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="OpenCode"/>
 </p>
 
-**AI API Integration · Claude · OpenAI · Ollama · Meta AI · OpenCode · Whisper · pydub · FFmpeg · yt-dlp · pytube · Selenium · Python**
+**`AI API Integration` · `Claude` · `OpenAI` · `Ollama` · `Meta AI` · `OpenCode` · `Whisper` · `pydub` · `FFmpeg` · `yt-dlp` · `pytube` · `Selenium` · `Python`**
 
 > Exploring practical AI integrations, automation workflows, intelligent assistants and data-driven applications.
 
@@ -175,7 +197,7 @@ I enjoy taking an idea from architecture and development to **deployment, automa
   <img src="https://img.shields.io/badge/SIEM%20%2F%20EDR-2563EB?style=for-the-badge&logo=security&logoColor=white" alt="SIEM and EDR"/>
 </p>
 
-**Purple Team · Threat Hunting · Detection Engineering · Incident Response · MITRE ATT&CK · Security Testing · SOC Workflow**
+**`Purple Team` · `Threat Hunting` · `Detection Engineering` · `Incident Response` · `MITRE ATT&CK` · `Security Testing` · `SOC Workflow`**
 
 > Actualmente estoy en el enfoque de Purple Team: fortaleciendo la colaboración entre ofensiva y defensa para detectar, validar y mejorar continuamente la postura de seguridad de sistemas y aplicaciones.
 
